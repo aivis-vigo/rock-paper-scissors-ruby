@@ -1,7 +1,7 @@
 # rock-paper-scissors-ruby
 ---
 
-A simple implementation of the popular game "Rock, Paper, Scissors, Lizard, Spock" in PHP.
+A simple implementation of the popular game "Rock, Paper, Scissors, Lizard, Spock" in Ruby.
 
 ## How to Play
 
