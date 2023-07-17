@@ -3,12 +3,6 @@
 
 A simple implementation of the popular game "Rock, Paper, Scissors, Lizard, Spock" in PHP.
 
-Installation
----
-```
-composer install  
-```
-
 ## How to Play
 
 1. Clone the repository or download the source code.
