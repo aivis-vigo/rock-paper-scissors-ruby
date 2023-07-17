@@ -1,4 +1,4 @@
-# rock-paper-scissors-ruby
+rock-paper-scissors-ruby
 ---
 
 A simple implementation of the popular game "Rock, Paper, Scissors, Lizard, Spock" in Ruby.
